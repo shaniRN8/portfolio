@@ -3,9 +3,7 @@ Here's the full README with the live link added at the top. I used the URL you s
 ````markdown
 # Shani Randika — 3D Interactive Portfolio
 
-🔗 **Live Demo:** [https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app](https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app)
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app)
+🔗 **Live Demo: https://portfolio-oxja4oyqj-shanirn8s-projects.vercel.app/
 
 A premium, fully interactive 3D portfolio built with **React**, **Three.js**, **React Three Fiber**, **GSAP**, and **vanilla CSS**. Designed to make a strong first impression on recruiters for IT internship applications.
 
