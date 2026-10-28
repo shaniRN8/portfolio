@@ -1,4 +1,11 @@
+Here's the full README with the live link added at the top. I used the URL you sent; if your production domain (Vercel → Domains) is different, replace it in the two places it appears.
+
+````markdown
 # Shani Randika — 3D Interactive Portfolio
+
+🔗 **Live Demo:** [https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app](https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app)
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app)
 
 A premium, fully interactive 3D portfolio built with **React**, **Three.js**, **React Three Fiber**, **GSAP**, and **vanilla CSS**. Designed to make a strong first impression on recruiters for IT internship applications.
 
@@ -87,6 +94,8 @@ Edit [`src/data/skills.js`](src/data/skills.js).
 
 ## 🚢 Deployment
 
+This project is deployed on **Vercel**: [live site](https://portfolio-4ps9izkrr-shanirn8s-projects.vercel.app). Every push to `main` triggers an automatic redeploy.
+
 ### Vercel (Recommended)
 ```bash
 npm i -g vercel
@@ -121,3 +130,12 @@ npm run build && npm run deploy
 ## 📝 License
 
 MIT — free to use and adapt for your own portfolio.
+````
+
+Then push:
+
+```powershell
+git add README.md
+git commit -m "Add live demo link to README"
+git push
+```
